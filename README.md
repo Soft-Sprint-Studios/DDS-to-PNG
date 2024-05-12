@@ -1,0 +1,1 @@
+DDS to PNG converter we use for parallax engine for quickly turning DDS to PNGS for use Please note the engine only works with TGA or DDS as of now so this is only used incase of photo editing and should be converted back to a DDS
